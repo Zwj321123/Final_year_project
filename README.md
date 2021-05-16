@@ -6,7 +6,8 @@ Some other milestone object detection models including YOLOv3, YOLOv3-tiny, SSD 
 The comparative experiment results indicate that the retrained YOLOv4 model achieves a considerable high mean average precision (mAP = 91%) but a slower inference speed (FPS) on a mobile device, while the retrained YOLOv4-tiny has a lower mAP of 87% but reach a higher FPS of 9 on a mobile device. Two mobile applications are then developed by directly deploying YOLOv4-tiny model on a mobile app and by deploying YOLOv4 on a web API, respectively. 
 The testing experiments indicate that both applications can not only achieve real-time and accurate detection, but also reduce computation burdens on mobile devices. 
 
-## Mobile APP
+## Flower Detection Mobile APP
 The source code of the mobile app is in the Mobile App folder.
 It should run in Android Studio IDE with OpenCV SDK installed.
-The main user interface 
+### The main user interface of the Flower Detection Mobile APP
+
