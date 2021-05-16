@@ -1,0 +1,8 @@
+{
+    "cfg": "./cfg/yolov4-flower.cfg",
+    "weights" : "./backup/yolov4-flower_best.weights",
+    "meta" : "./data/obj.data",
+    "source" : "frontend/static/images/",
+    "output" : "frontend/static/output",
+    "thresh" : 0.25
+}

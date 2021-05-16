@@ -1,0 +1,8 @@
+{
+    "cfg": "./cfg/yolov4-voc-bm.cfg",
+    "weights" : "./backup/yolov4-voc-bm_best.weights",
+    "meta" : "./cfg/voc-bm.data",
+    "source" : "frontend/static/images/",
+    "output" : "frontend/static/output",
+    "thresh" : 0.25
+}
